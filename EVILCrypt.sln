@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stub", "Stub\Stub.csproj", "{52C092AA-E28D-4A81-A397-88BFDDA7C242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvilXGX", "EvilXGX\EvilXGX.csproj", "{8B9171E6-9DCC-491D-8A95-D9A529E545B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C092AA-E28D-4A81-A397-88BFDDA7C242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C092AA-E28D-4A81-A397-88BFDDA7C242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C092AA-E28D-4A81-A397-88BFDDA7C242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C092AA-E28D-4A81-A397-88BFDDA7C242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9171E6-9DCC-491D-8A95-D9A529E545B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9171E6-9DCC-491D-8A95-D9A529E545B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9171E6-9DCC-491D-8A95-D9A529E545B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9171E6-9DCC-491D-8A95-D9A529E545B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CB0A61A-2DB5-4219-B776-E9501C4800F8}
+	EndGlobalSection
+EndGlobal
